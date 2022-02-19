@@ -1,0 +1,4 @@
+/result.png
+/test_data.csv
+/.bundle/*
+!/.bundle/config
